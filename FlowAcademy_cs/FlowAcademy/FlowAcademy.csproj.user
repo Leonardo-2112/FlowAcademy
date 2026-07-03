@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBoletimAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFrequencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFrequenciaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrimeiroAcesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

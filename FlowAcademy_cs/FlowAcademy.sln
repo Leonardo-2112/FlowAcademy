@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowAcademy", "FlowAcademy\FlowAcademy.csproj", "{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowAcademyClasses", "FlowAcademyClasses\FlowAcademyClasses.csproj", "{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937D564B-DE24-437D-B17B-02A0F8170D00}
+	EndGlobalSection
+EndGlobal
