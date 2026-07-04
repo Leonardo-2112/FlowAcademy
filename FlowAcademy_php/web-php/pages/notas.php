@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $p2 = (float) str_replace(',', '.', post('prova_2'));
         $trabalho = (float) str_replace(',', '.', post('trabalho'));
         $comportamental = (float) str_replace(',', '.', post('comportamental'));
-        $media = round(($p1 + $p2 + $trabalho + $comportamental) / 4, 2);
+        $media = round(($p1 * 0.3) + ($p2 * 0.3) + ($trabalho * 0.3) + ($comportamental * 0.1), 2);
         $status = $media >= 6 ? 'aprovado' : 'reprovado';
 
         executar(
