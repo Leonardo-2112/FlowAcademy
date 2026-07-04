@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}|FlowAcademyClasses\\FlowAcademyClasses.csproj|c:\\users\\leonardo\\downloads\\flowacademy_cs\\flowacademyclasses\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}|FlowAcademyClasses\\FlowAcademyClasses.csproj|solutionrelative:flowacademyclasses\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}|FlowAcademyClasses\\FlowAcademyClasses.csproj|c:\\users\\leonardo\\downloads\\flowacademy_cs\\flowacademyclasses\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4809C71F-F8C8-45AC-ADEA-EC2DB1554B01}|FlowAcademyClasses\\FlowAcademyClasses.csproj|solutionrelative:flowacademyclasses\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}|FlowAcademy\\FlowAcademy.csproj|c:\\users\\leonardo\\downloads\\flowacademy_cs\\flowacademy\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}|FlowAcademy\\FlowAcademy.csproj|solutionrelative:flowacademy\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}|FlowAcademy\\FlowAcademy.csproj|c:\\users\\leonardo\\downloads\\flowacademy_cs\\flowacademy\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}|FlowAcademy\\FlowAcademy.csproj|solutionrelative:flowacademy\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}|FlowAcademy\\FlowAcademy.csproj|C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\flowacademy\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}|FlowAcademy\\FlowAcademy.csproj|solutionrelative:flowacademy\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}|FlowAcademy\\FlowAcademy.csproj|c:\\users\\leonardo\\downloads\\flowacademy_cs\\flowacademy\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A938F0D-8EAC-4B44-92D7-DB0F4C742EA5}|FlowAcademy\\FlowAcademy.csproj|solutionrelative:flowacademy\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademyClasses\\Banco.cs",
+              "RelativeDocumentMoniker": "FlowAcademyClasses\\Banco.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademyClasses\\Banco.cs",
+              "RelativeToolTip": "FlowAcademyClasses\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T15:52:47.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAluno.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademy\\FrmAluno.cs",
+              "RelativeDocumentMoniker": "FlowAcademy\\FrmAluno.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademy\\FrmAluno.cs [Projeto]",
+              "RelativeToolTip": "FlowAcademy\\FrmAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T15:51:01.334Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademy\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FlowAcademy\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademy\\FormLogin.cs [Projeto]",
+              "RelativeToolTip": "FlowAcademy\\FormLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T15:50:44.073Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademyClasses\\Usuario.cs",
+              "RelativeDocumentMoniker": "FlowAcademyClasses\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademyClasses\\Usuario.cs",
+              "RelativeToolTip": "FlowAcademyClasses\\Usuario.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAawAABAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T15:50:44.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmFuncionarios.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademy\\FrmFuncionarios.cs",
+              "RelativeDocumentMoniker": "FlowAcademy\\FrmFuncionarios.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademy\\FrmFuncionarios.cs",
+              "RelativeToolTip": "FlowAcademy\\FrmFuncionarios.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAYwMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T15:50:44.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmFuncionarios.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Downloads\\FlowAcademy_cs\\FlowAcademy\\FrmFuncionarios.cs",
+              "RelativeDocumentMoniker": "FlowAcademy\\FrmFuncionarios.cs",
+              "ToolTip": "C:\\Users\\leonardo.asousa4\\Documents\\FlowAcademy_cs_funcionarios_form_unico\\FlowAcademy_cs_consultas_aluno_corrigido\\FlowAcademy_cs\\FlowAcademy\\FrmFuncionarios.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\leonardo.asousa4\\Documents\\FlowAcademy_cs_funcionarios_form_unico\\FlowAcademy_cs_consultas_aluno_corrigido\\FlowAcademy_cs\\FlowAcademy\\FrmFuncionarios.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T15:50:45.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

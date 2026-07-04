@@ -10,3 +10,15 @@ C:\Users\leonardo.asousa4\Documents\FlowAcademy_cs_funcionarios_form_unico\FlowA
 C:\Users\leonardo.asousa4\Documents\FlowAcademy_cs_funcionarios_form_unico\FlowAcademy_cs_consultas_aluno_corrigido\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\refint\FlowAcademyClasses.dll
 C:\Users\leonardo.asousa4\Documents\FlowAcademy_cs_funcionarios_form_unico\FlowAcademy_cs_consultas_aluno_corrigido\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\FlowAcademyClasses.pdb
 C:\Users\leonardo.asousa4\Documents\FlowAcademy_cs_funcionarios_form_unico\FlowAcademy_cs_consultas_aluno_corrigido\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\ref\FlowAcademyClasses.dll
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\bin\Debug\net8.0\FlowAcademyClasses.deps.json
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\bin\Debug\net8.0\FlowAcademyClasses.dll
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\bin\Debug\net8.0\FlowAcademyClasses.pdb
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\FlowAcademyClasses.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\FlowAcademyClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\FlowAcademyClasses.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\FlowAcademyClasses.AssemblyInfo.cs
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\FlowAcademyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\FlowAcademyClasses.dll
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\refint\FlowAcademyClasses.dll
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\FlowAcademyClasses.pdb
+C:\Users\Leonardo\Downloads\FlowAcademy_cs\FlowAcademyClasses\obj\Debug\net8.0\ref\FlowAcademyClasses.dll
